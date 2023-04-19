@@ -1,7 +1,3 @@
-<img align="center" src="https://i.imgur.com/A1sTsPK.png">
-<h4 align="center">To Do List.</h4>
-
-<hr>
 
 ## 💡 Technologies
 
